@@ -1,0 +1,17 @@
+INDEX VERSION 1.131
+C:\work\JSP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2124024205.index
+\JSP05_Expression1\src\main\java
+C:\work\JSP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3488685373.index
+\JSP03_Scriptlet\src\main\java
+C:\work\JSP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2677973490.index
+\JSP01\src\main\java
+C:\work\JSP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2969294070.index
+\JSP02_Declaration\src\main\java
+C:\work\JSP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1255263897.index
+\JSP_meath\src\main\java
+C:\work\JSP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1403570784.index
+\Hello\src\main\java
+C:\work\JSP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\485472263.index
+\JSP04_Scriptlet2\src\main\java
+C:\work\JSP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2282240357.index
+\JSP06_Expression2\src\main\java

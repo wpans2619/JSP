@@ -1,0 +1,12 @@
+
+10월 27, 2021 16:29:25.824 NEW SESSION
+10월 27, 2021 16:29:25.825 [10300:7112:1027/162925.822:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+10월 27, 2021 16:29:25.825 [10300:7112:1027/162925.822:ERROR:chrome_browser_main_extra_parts_metrics.cc(233)] crbug.com/1216328: Checking Bluetooth availability ended.
+10월 27, 2021 16:29:25.826 [10300:7112:1027/162925.822:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+10월 27, 2021 16:29:25.831 [10300:7112:1027/162925.831:ERROR:chrome_browser_main_extra_parts_metrics.cc(240)] crbug.com/1216328: Checking default browser status ended.
+10월 27, 2021 16:29:25.837 [10300:9488:1027/162925.835:ERROR:device_event_log_impl.cc(214)] [16:29:25.834] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+10월 27, 2021 16:30:44.137 [14284:15744:1027/163044.137:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+10월 27, 2021 16:30:44.138 [14284:15744:1027/163044.138:ERROR:chrome_browser_main_extra_parts_metrics.cc(233)] crbug.com/1216328: Checking Bluetooth availability ended.
+10월 27, 2021 16:30:44.140 [14284:15744:1027/163044.140:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+10월 27, 2021 16:30:44.149 [14284:9252:1027/163044.149:ERROR:device_event_log_impl.cc(214)] [16:30:44.148] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+10월 27, 2021 16:30:44.175 [14284:15744:1027/163044.174:ERROR:chrome_browser_main_extra_parts_metrics.cc(240)] crbug.com/1216328: Checking default browser status ended.
