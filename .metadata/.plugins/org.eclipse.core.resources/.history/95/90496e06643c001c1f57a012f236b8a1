@@ -19,6 +19,6 @@
 	}
 %>
 오전? 오후? <%=(hour<12)?"오전":"오후" %>
-one과 two중 큰숫자는?<%=opration(one,two)%>
+one과 two중 큰숫자는?<%= %>
 </body>
 </html>
