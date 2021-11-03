@@ -3,6 +3,8 @@ C:\work\JSP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1255263897.ind
 \JSP_meath\src\main\java
 C:\work\JSP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\485472263.index
 \JSP04_Scriptlet2\src\main\java
+C:\work\JSP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3508564216.index
+\JSP08_For\src\main\java
 C:\work\JSP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2124024205.index
 \JSP05_Expression1\src\main\java
 C:\work\JSP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1403570784.index
