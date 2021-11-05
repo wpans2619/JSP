@@ -21,3 +21,5 @@ C:\work\JSP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3488685373.ind
 \JSP03_Scriptlet\src\main\java
 C:\work\JSP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2282240357.index
 \JSP06_Expression2\src\main\java
+C:\work\JSP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3497973020.index
+\JSP10_ErrorPage\src\main\java
