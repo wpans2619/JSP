@@ -9,6 +9,8 @@ C:\work\JSP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2124024205.ind
 \JSP05_Expression1\src\main\java
 C:\work\JSP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1403570784.index
 \Hello\src\main\java
+C:\work\JSP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4185866638.index
+\JSP09_derective\src\main\java
 C:\work\JSP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2677973490.index
 \JSP01\src\main\java
 C:\work\JSP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3999376346.index
