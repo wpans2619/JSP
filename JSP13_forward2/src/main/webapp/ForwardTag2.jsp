@@ -13,7 +13,7 @@
 </head>
 <body>
 <h1>Forward Tag Example2</h1>
-<jsp:forward page="<%=bloodType + ".jsp"%>">
+<jsp:forward page='<%=bloodType + ".jsp"%>'>
 	<jsp:param name="name" value="<%=name %>"/>
 </jsp:forward>
 </body>
